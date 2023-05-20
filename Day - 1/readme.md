@@ -1,4 +1,7 @@
-## Day 1
+<h1 align="center">
+JavaScript Day - 1 <br>
+Topic : Intro Js
+</h1>
 
 <p align="center">
 This is the first day of the JavaScript Course.
@@ -42,4 +45,15 @@ comment.
 - Variables are used to store data. 
 - Variables are used to store different types of data. 
 - javascript is a dynamically typed language, the type of data that can be stored in a variable can change during the execution of the program.
+```
+var name = "Jayesh Vegda";
+```
+### Rule of Naming Variables
+- Variable names cannot start with a number.
+- Variable names cannot contain spaces.
+- Variable names cannot contain special characters
+- Variable names cannot be a reserved keyword. 
+- Variable names are case sensitive
+
+
 
