@@ -1,4 +1,3 @@
-## Day 3
 <h1 align="center">
 JavaScript Day - 3 <br>
 Topic : Data Types
